@@ -1,0 +1,53 @@
+Liste des bonnes pratiques :
+-  Git hub : Git hub est un outil permettant à plusieurs utiliseteurs de travailler sur les mêm ficheirs de code tout en conservant toutes les versions.
+Utiliser cet outil est une façon  profesionnelle de travailler sur le code. Cela peut don êter vu comme une bonne pratique.
+
+Preuve d'utilisation de Junit :
+
+Lien Git Hub du code du tp noté : https://github.com/Flopiflopa/tpNote.git
+
+
+
+Junit Permet de vérifier si les tests du code source sont opéraitonnels. Son utilisation peut aussi être vu comme une bonne pratique.
+
+Preuves d'utilisation de Junit : 
+
+
+
+Conventions d'écriture :
+Les conventions d'écriture doivent êgalement être respectés par les programmeurs.
+Voici quelques exemples qui ont été respectés dans le code :
+- Nommage des paquetages, classes et variables
+- Indentation, alignement des accollades
+
+
+
+
+- Commentaires: Il est important de commenter tout le code. Attention cependant à faire des commentaires petinants et non redondants.
+
+
+
+
+
+- Modularité : C'est un des critères de qualité les plus important. Le code a été décomposé en plusieurs modules ou classes.
+L'objectif est que la classe soit composé du moins de classes possibles, les classques communiquent clairement entre elles et que les attibuts et méthodes de la classes soient le moins visibles possibles
+
+
+- Réutilisabilité : Certains élèments du code sont issus d'un autre programme, réalisés plus tôt. Réutiliser le code de cette manière peut être une bonne pratique car cela fait gagner du temps au programmeur.
+Attention cependant à s'assurer que le programme compile bien par la suite et que la partie rajoutée soit bien commentée, si besoin.
+
+
+
+
+
+
+Etant donné que mon code ne compilait pas, je me sui servi d'un autre programme pour démontrer que je savais utiliser Junit et le point d'arrêt pour débuguer.
+- Screen de Junit : Nous voyons que les 7 tests ont réussis. Le temps d'éxécution est affiché.
+- Screen du point d'arrêt :
+1 : Passage de l'étape précédente à la suivante
+2 : Point d'arrêt créé
+3 : Visulation du contenu de la pile
+4 : Fenêtre de commandes pour avoir des précisions sur les bugs.
+
+Le débug par point d'arrêt permet de voir, ligne par ligne, quel est le problème dans du code.
+
